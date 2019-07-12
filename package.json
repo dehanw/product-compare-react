@@ -58,6 +58,7 @@
     "cypress": "cypress open"
   },
   "devDependencies": {
+    "@applitools/eyes.cypress": "^3.4.11",
     "babel-eslint": "^7.2.3",
     "eslint": "^3.19.0",
     "eslint-config-react-app": "^1.0.5",
